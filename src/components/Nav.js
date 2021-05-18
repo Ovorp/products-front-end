@@ -9,6 +9,8 @@ export default function Nav() {
         <li>Science Stuff</li>
         <li>Nerd Stuff</li>
         <li>Ultimate Frisbee Stuff</li>
+        <li>Computer Stuff</li>
+        <li>Sports Stuff</li>
         <li>Stuff Stuff</li>
       </ul>
     </nav>
